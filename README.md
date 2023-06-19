@@ -5,7 +5,7 @@ Rebeca Cândida dos Santos |
 https://github.com/rsbeca/projetosd23 |
 RA: 32121980
 
-Vinicius Almeida Fidelis | https://github.com/euovinicius/projetoss23 |
+Vinicius Almeida Fidelis | https://github.com/euovinicius/projetos23 |
 RA: 323132221
 
 O projeto foi feito com o intuito de cadastrar as tarefas, do dia-a-dia do usuário, sendo de fácil utilização. Caso alguma tarefa ultrapassar no seu prazo de validade, ela fica na cor vermelha, se o horário estiver em formato errado, ou a data o mesmo, fica em laranja, e caso estiver tudo certo, no prazo para concluir e o horário e datas no formato correto, a tarefa aparece em verde.
