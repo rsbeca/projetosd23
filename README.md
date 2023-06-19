@@ -1,8 +1,10 @@
 # Projeto Sistemas Distribuidos 
 _Integrantes:_ 
 
-Rebeca Cândida dos Santos | https://github.com/rsbeca/projetosd23
+Rebeca Cândida dos Santos |
+https://github.com/rsbeca/projetosd23 |
 RA: 32121980
+
 Vinicius Almeida Fidelis | 
 RA: 323132221
 
