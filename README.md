@@ -1,4 +1,4 @@
-# projetosd23
+# Projeto Sistemas Distribuidos 
 _Integrantes:_ 
 
 Rebeca Cândida dos Santos | https://github.com/rsbeca/projetosd23
